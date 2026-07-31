@@ -26,6 +26,8 @@ wheels/
 # Output Image Cache
 *.png
 !zectrix_eink_sample.png
+!zectrix_eink_preview.png
+
 
 # IDEs
 .vscode/
