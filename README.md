@@ -11,7 +11,12 @@
 
 本项目解决了一般水墨屏推送图片时**文字发糊、噪点散落、排版参差不齐**的硬核难题。通过 **1-Bit Mode 1 纯单色调色板 + 云端 `dither=false` 噪点直通技术**，结合**精细宋体 (SimSun) 2-Column 像素级双列网格**，在巴掌大小的水墨屏上实现类似电子书/真纸雕刻般的黑白极高清看盘体验！
 
+<p align="center">
+  <img src="zectrix_eink_preview.png" alt="Zectrix E-Ink Market Dashboard Preview" width="600">
+</p>
+
 ---
+
 
 ## ✨ 核心特性
 
